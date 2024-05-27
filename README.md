@@ -2,6 +2,7 @@
 
 * MUST implement all of the [EduChip Consumer app requirements](https://github.com/UstadMobile/EduCHIP-Recipe?tab=readme-ov-file#consumer-app-requirements)
 * MUST NOT have minimum hardware requirements that exceed the latest version of [Android GO edition](https://developer.android.com/guide/topics/androidgo#hardware-reqs)
+* The minimum required version of Android (minSDK) MUST be compatible with over 90% of Android devices (currently [Android 8.1 Oreo](https://www.composables.com/tools/distribution-chart)) 
 * Android app size (not including assets delivered via RAD) MUST NOT exceed *60MB-ish*
 * Android app must start within *15ish* seconds (cold start) of launching on a device with the latest minimum Android Go hardware requirements.
 * MAY support other operating systems or platforms (e.g. iOS, Windows, Linux, Web)
